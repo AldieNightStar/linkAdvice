@@ -1,0 +1,15 @@
+body { 
+    margin: 5%
+}
+
+a {
+    font-size: 24px;
+    color: blue;
+    transition: 300ms;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
