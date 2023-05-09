@@ -1,5 +1,5 @@
 # Link Advice site
-## Used to warm before ad-links
+## Used to warn before ad-links
 ---
 # Usage
 * Add `#` and _full URL_ to target site
